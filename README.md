@@ -29,7 +29,7 @@ A modern, responsive, and animated **Health Dashboard** that allows users to upl
 
 | Dashboard | Upload Page | Reports |
 |----------|-------------|---------|
-| ![Dashboard](./screenshots/dashboard.png) | ![Upload](./screenshots/upload.png) | ![Reports](./screenshots/reports.png) |
+| ![Dashboard](./[screenshots/dashboard.png](https://github.com/Subhrajitsanyal/Cancer-Detection-AI-ML/blob/bb1e1590dc795f48be20c8d699d867eba5b1be08/Screenshot%202025-04-06%20222422.png)) | ![Upload](./screenshots/upload.png) | ![Reports](./screenshots/reports.png) |
 
 > Add your own screenshots in a `/screenshots` folder.
 
