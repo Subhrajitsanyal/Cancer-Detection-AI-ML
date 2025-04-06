@@ -27,7 +27,8 @@ A modern, responsive, and animated **Health Dashboard** that allows users to upl
 
 ## 📸 Screenshots
 
-                                                               | Dashboard | 
+
+ | Dashboard | 
 
  ![Dashboard](https://github.com/Subhrajitsanyal/Cancer-Detection-AI-ML/blob/34fd1ee4f208657f60e7535c948826c870b51262/Screenshot%202025-04-06%20222449.png) 
                                                                | Upload Page |
