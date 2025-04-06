@@ -28,12 +28,14 @@ A modern, responsive, and animated **Health Dashboard** that allows users to upl
 ## 📸 Screenshots
 
 | Dashboard | 
-|----------|-------------|---------|
+
 | ![Dashboard](https://github.com/Subhrajitsanyal/Cancer-Detection-AI-ML/blob/34fd1ee4f208657f60e7535c948826c870b51262/Screenshot%202025-04-06%20222449.png) 
 | Upload Page |
+
 | ![Upload](https://github.com/Subhrajitsanyal/Cancer-Detection-AI-ML/blob/4cc4f7c08d8fb5fd20a7ac3d8e9397912f164b2c/Screenshot%202025-04-06%20222515.png) 
 | Appointment |
-| ![Appointment](https://github.com/Subhrajitsanyal/Cancer-Detection-AI-ML/blob/aa48b18a1c90a054a3d96d8f2e9b1dbb647bd046/Screenshot%202025-04-06%20222808.png) |
+
+| ![Appointment](https://github.com/Subhrajitsanyal/Cancer-Detection-AI-ML/blob/aa48b18a1c90a054a3d96d8f2e9b1dbb647bd046/Screenshot%202025-04-06%20222808.png) 
 
 > Add your own screenshots in a `/screenshots` folder.
 
